@@ -1,6 +1,6 @@
 cask "boro-app" do
   version "0.2.0"
-  sha256 "158550441a3d526340f8fab06e370642cc6498c10d900f196cffe5b7ffa35077"
+  sha256 "8f4be1bc60ae79a6fa5b6ef42afb2823d6e96aae5c0fe979a62fc539f5565c25"
 
   url "https://github.com/ethandadev/boro/releases/download/v#{version}/Boro-#{version}.pkg"
   name "Boro"
